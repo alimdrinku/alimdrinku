@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @alimdrinku
-- 👀 I’m interested in java , c, python, android,linux,html,css,
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @alimdrinku
+
+## 👀 Interests
+Passionate about ** Python,Java, C, Android, Linux, ** — building efficient, cross-platform solutions.
+
+## 🌱 Currently Learning
+- **IoT Development** with **Raspberry Pi**  
+- Home Automation (Home Assistant, MQTT)  
+- Sensor Integration & Data Logging  
+- Python for Embedded Systems (MicroPython, CircuitPython)  
+- Linux Device Drivers & GPIO Control  
+
+---
+
+## 💞️ Looking to Collaborate On
+- **IoT Projects** using Raspberry Pi  
+- Smart Home Automation Systems  
+- Android + Raspberry Pi Integration  
+- Open-Source Hardware Monitoring Tools  
+- Linux-Based Embedded Applications
+
+## 📫 How to Reach Me
+- **Email**: rinkufast302550.ra@gmail.com 
+- **GitHub**: [@alimdrinku](https://github.com/alimdrinku)  
+- **LinkedIn**: [linkedin.com/in/alimdrinku](https://linkedin.com/in/alimdrinku)  
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 <!---
 alimdrinku/alimdrinku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
