@@ -2,6 +2,9 @@
 
 ## 👀 Interests
 Passionate about ** Python,Java, C, Android, Linux, ** — building efficient, cross-platform solutions.
+## 🌱 thinking to provide some learning methods for new learners 
+-if youre new you may follow the new learners file ,
+-50 days of python 
 
 ## 🌱 Currently Learning
 - **IoT Development** with **Raspberry Pi**  
